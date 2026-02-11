@@ -127,6 +127,12 @@ src/
 В рамках разработки проекта была подтверждена квалификация разработчика
 по работе с GREEN-API.
 
+<details>
+  <summary>Превью сертификата</summary>
+
+  <img src="docs/green-api-developer-certificate-preview.png" width="600" />
+</details>
+
 - Сертификат разработчика GREEN-API (PDF):  
   [`green-api-developer-certificate.pdf`](docs/green-api-developer-certificate.pdf)
 
